@@ -25,5 +25,5 @@ void loop() {
   Serial.print("pressed: ");
   Serial.println(upPressed);
   
-  delay(2); 
+  delay(20); 
 }
